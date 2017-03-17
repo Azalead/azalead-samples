@@ -13,3 +13,11 @@ aza-b2b-form
 This folder contains code samples for "B2B Web Forms" guide.
 
 [> Find more about this guide](https://developers.azalead.com/aza-b2b-web-forms)
+
+
+rest-api-getting-started
+------
+
+This folder contains code samples for "REST API Getting Started" guide.
+
+[> Find more about this guide](https://developers.azalead.com/rest-api-getting-started)
