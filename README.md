@@ -21,3 +21,11 @@ rest-api-getting-started
 This folder contains code samples for "REST API Getting Started" guide.
 
 [> Find more about this guide](https://developers.azalead.com/rest-api-getting-started)
+
+
+target-account-engagement
+------
+
+This folder contains code for "Get your target account marketing engagement" tutorial.
+
+[> Find more about this tutorial](https://developers.azalead.com/tutorials/get-your-target-account-marketing-engagement/)
